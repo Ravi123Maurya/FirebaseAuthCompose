@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "465700985589",
+    "project_id": "composefirebaseauth-af3a8",
+    "storage_bucket": "composefirebaseauth-af3a8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465700985589:android:b62b9c481e7a7a053303bc",
+        "android_client_info": {
+          "package_name": "com.ravimaurya.firebaseauthcompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoiP1LY8LObSu5Mbk4i0xmzq6RUP9zU2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
