@@ -77,6 +77,9 @@ dependencies {
     // Splash API
     implementation("androidx.core:core-splashscreen:1.0.1")
 
+    // Lottie for Animations
+    implementation("com.airbnb.android:lottie-compose:6.1.0")
+
     // Firebase Auth
     implementation(libs.firebase.auth)
 }
