@@ -31,4 +31,4 @@ A **Jetpack Compose** Android app implementing a **Firebase Authentication-based
 ### **Setup Steps**
 1️⃣ **Clone the Repository**  
 ```sh
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/Ravi123Maurya/FirebaseAuthCompose.git
